@@ -1,4 +1,4 @@
-Project Llama Pinata
+Project Llama Piñata
 ===========
 
-Pinata is an open-source music player based on the popular Vanilla music player. WIP :)
+Piñata is an open-source music player based on the popular Vanilla music player. WIP :)

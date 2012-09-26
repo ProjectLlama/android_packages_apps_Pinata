@@ -24,43 +24,43 @@ THE SOFTWARE.
 	<PreferenceScreen
 		android:title="@string/audio">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$AudioActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$AudioActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/playback_screen">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$PlaybackActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$PlaybackActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/library_screen">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$LibraryActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$LibraryActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/notifications">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$NotificationsActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$NotificationsActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/accelerometer_shake">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$ShakeActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$ShakeActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/misc_features">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$MiscActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$MiscActivity" />
 	</PreferenceScreen>
 	<PreferenceScreen
 		android:title="@string/about">
 		<intent
-			android:targetPackage="org.kreed.vanilla"
-			android:targetClass="org.kreed.vanilla.PreferencesActivity$AboutActivity" />
+			android:targetPackage="tk.projectllama.Pinata"
+			android:targetClass="tk.projectllama.Pinata.PreferencesActivity$AboutActivity" />
 	</PreferenceScreen>
 </PreferenceScreen>
