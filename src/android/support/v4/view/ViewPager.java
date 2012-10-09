@@ -45,8 +45,8 @@ import android.widget.Scroller;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import org.kreed.vanilla.CompatFroyo;
-import org.kreed.vanilla.CompatHoneycomb;
+import tk.projectllama.Pinata.CompatFroyo;
+import tk.projectllama.Pinata.CompatHoneycomb;
 
 /**
  * Layout manager that allows the user to flip left and right
