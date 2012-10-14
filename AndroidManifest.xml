@@ -125,11 +125,11 @@ THE SOFTWARE.
 		</receiver>
 		<service android:name="PlaybackService">
 			<intent-filter>
-				<action android:name="org.kreed.vanilla.action.PLAY" />
-				<action android:name="org.kreed.vanilla.action.PAUSE" />
-				<action android:name="org.kreed.vanilla.action.TOGGLE_PLAYBACK" />
-				<action android:name="org.kreed.vanilla.action.NEXT_SONG" />
-				<action android:name="org.kreed.vanilla.action.PREVIOUS_SONG" />
+				<action android:name="tk.projectllama.Pinata.action.PLAY" />
+				<action android:name="tk.projectllama.Pinata.action.PAUSE" />
+				<action android:name="tk.projectllama.Pinata.action.TOGGLE_PLAYBACK" />
+				<action android:name="tk.projectllama.Pinata.action.NEXT_SONG" />
+				<action android:name="tk.projectllama.Pinata.action.PREVIOUS_SONG" />
 			</intent-filter>
 		</service>
 		<activity
