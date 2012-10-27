@@ -103,8 +103,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
-	public static class PlaybackFragment extends PreferenceFragment {
+	public class PlaybackFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
 		{
