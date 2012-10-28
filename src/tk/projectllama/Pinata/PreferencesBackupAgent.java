@@ -29,7 +29,7 @@ import android.app.backup.SharedPreferencesBackupHelper;
 /**
  * Saves application preferences to the backup manager.
  */
-@TargetApi(8)
+//@TargetApi(8)
 public class PreferencesBackupAgent extends BackupAgentHelper {
 	private static final String BACKUP_KEY = "prefs";
 

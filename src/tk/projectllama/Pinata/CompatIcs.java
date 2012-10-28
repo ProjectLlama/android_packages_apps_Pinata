@@ -35,7 +35,7 @@ import android.media.RemoteControlClient;
 /**
  * Framework methods only in ICS or above go here.
  */
-@TargetApi(14)
+//@TargetApi(14)
 public class CompatIcs {
 	/**
 	 * Used with updateRemote method.

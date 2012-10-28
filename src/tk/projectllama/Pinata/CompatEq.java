@@ -29,7 +29,7 @@ import android.media.audiofx.Equalizer;
 /**
  * Gingerbread equalizer compatibility.
  */
-@TargetApi(9)
+//@TargetApi(9)
 public class CompatEq {
 	private final Equalizer mEq;
 

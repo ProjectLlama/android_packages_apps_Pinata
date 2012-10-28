@@ -55,7 +55,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	@Override
 	public void onBuildHeaders(List<Header> target)
 	{
@@ -83,7 +83,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class AudioFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
@@ -122,7 +122,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class LibraryFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
@@ -144,7 +144,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class NotificationsFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
@@ -164,7 +164,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class ShakeFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
@@ -184,7 +184,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class MiscFragment extends PreferenceFragment {
 		@Override
 		public void onCreate(Bundle savedInstanceState)
@@ -208,7 +208,7 @@ public class PreferencesActivity extends PreferenceActivity {
 		}
 	}
 
-	@TargetApi(11)
+	//@TargetApi(11)
 	public static class AboutFragment extends WebViewFragment {
 		@Override
 		public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)

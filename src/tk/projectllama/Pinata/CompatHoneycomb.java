@@ -37,7 +37,7 @@ import android.widget.ListView;
 /**
  * Framework methods only in Honeycomb or above go here.
  */
-@TargetApi(11)
+//@TargetApi(11)
 public class CompatHoneycomb {
 	/**
 	 * Add ActionBar tabs for LibraryActivity.
